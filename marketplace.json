@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-skills",
+  "owner": { "name": "yiyi" },
+  "plugins": [
+    {
+      "name": "nextjs-skills",
+      "source": "./",
+      "description": "Next.js 项目开发规范：API 路由、前端编码规范、业务文档规范"
+    }
+  ]
+}
